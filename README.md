@@ -1,5 +1,5 @@
 # Sora2 使用教程与邀请码获取指南（sora2使用教程 / sora2邀请码购买 / sora2邀请码分享）只需9.9元
-*最近更新：2025年10月6日*
+*最近更新：2025年10月8日*
 <img width="876" height="625" alt="image" src="https://github.com/user-attachments/assets/a97b083a-d388-4ad1-a385-b48f74de1fb5" />
 
 ## Sora2 是什么？如何获取 Sora2 邀请码？
