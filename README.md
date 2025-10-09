@@ -1,5 +1,5 @@
 # Sora2 使用教程与邀请码获取指南（sora2使用教程 / sora2邀请码购买 / sora2邀请码分享）只需9.9元
-*最近更新：2025年10月8日*
+*最近更新：2025年10月10日*
 <img width="876" height="625" alt="image" src="https://github.com/user-attachments/assets/a97b083a-d388-4ad1-a385-b48f74de1fb5" />
 
 ## Sora2 是什么？如何获取 Sora2 邀请码？
@@ -38,8 +38,11 @@ Sora2 模型目前处于邀请测试阶段，所以 Sora iOS App 仅对部分用
 
 总之来说，**Sora2** 是一款令人瞠目大小的新文工具，可以把你的穿越想象变成该有的可观视频。体验 Sora2 的首要条件就是拥有邀请码。相信通过上文提到的几种路径，无论是选择直接进行 sora2邀请码购买 的捷径，还是在社区耐心等待免费邀请码，你都有望迅速获得 Sora2 邀请码。希望大家都能早日体验到这个神奇的 AI 工具，也欢迎在你得码后把新的邀请码分享给身边的小伙伴，一起感受 Sora2 的魔力。
 
+
+
 **参考链接：**
 
+👉 想看更详细的 Sora2 使用步骤？请访问：[Sora2教程与邀请码说明](https://github.com/rangling/sora2-tutorial-invite-code)
 - OpenAI 官方博客：《Sora 2 is here》 – Sora2 视频生成模型的官方介绍[ (OpenAI.com)](https://openai.com/index/sora-2/)
 - Dealmoon 文章：《Sora AI视频火爆登顶App Store 手把手教你抢邀请码！》 – Sora 应用及邀请码获取指南 (Dealmoon社区)
 -[ 404141.xyz – “风云际会” AI 账号商城 (提供 Sora2 邀请码购买)](https://www.404141.xyz/)
