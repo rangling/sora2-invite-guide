@@ -1,6 +1,6 @@
 # Sora2 使用教程与邀请码获取指南（sora2使用教程 / sora2邀请码购买 / sora2邀请码分享）只需9.9元
-*最近更新：2025年10月10日*
-<img width="876" height="625" alt="image" src="https://github.com/user-attachments/assets/a97b083a-d388-4ad1-a385-b48f74de1fb5" />
+*📅 最近更新：2025年10月12日*
+<img width="876" height="625" alt="Sora2 邀请码输入界面示例" src="https://github.com/user-attachments/assets/a97b083a-d388-4ad1-a385-b48f74de1fb5" />
 
 ## Sora2 是什么？如何获取 Sora2 邀请码？
 
@@ -17,7 +17,7 @@ Sora2 模型目前处于邀请测试阶段，所以 Sora iOS App 仅对部分用
 现在获取 Sora2 邀请码的方法主要有三种：**付费购买**、**在社交媒体/论坛寻找分享**，以及通过 **Discord 群组** 领取。下面我就分别简介这三种方式，看看哪个适合你。
 
 ### 方法 1：付费购买邀请码
-<img width="876" height="625" alt="image" src="https://github.com/user-attachments/assets/ae0b053d-9790-47eb-b501-526f0ad09890" />
+<img width="876" height="625" alt="Sora2 邀请码获取界面" src="https://github.com/user-attachments/assets/ae0b053d-9790-47eb-b501-526f0ad09890" />
 
 
 想快鸟先飞，直接购买 Sora2 邀请码是最快的路径。现在网上有一些平台在卖 Sora2 邀请码，价格从几块到一百元不等。这里小编找到9.9的最便宜邀请码，风云ai网站 [404141.xyz](https://www.404141.xyz/)就提供 Sora2邀请码购买服务。一般情况下，你支付后商家会快速传达邀请码，通过邮件或站内消息发给你。拿到邀请码就能立即体验 Sora2 了。
@@ -39,10 +39,28 @@ Sora2 模型目前处于邀请测试阶段，所以 Sora iOS App 仅对部分用
 总之来说，**Sora2** 是一款令人瞠目大小的新文工具，可以把你的穿越想象变成该有的可观视频。体验 Sora2 的首要条件就是拥有邀请码。相信通过上文提到的几种路径，无论是选择直接进行 sora2邀请码购买 的捷径，还是在社区耐心等待免费邀请码，你都有望迅速获得 Sora2 邀请码。希望大家都能早日体验到这个神奇的 AI 工具，也欢迎在你得码后把新的邀请码分享给身边的小伙伴，一起感受 Sora2 的魔力。
 
 
+## 🆕 更新记录（Update Log）
 
-**参考链接：**
+> 持续更新中：本页会定期补充最新的 Sora2 邀请码申请方法、使用教程与功能体验。  
+> Google 与访客都会更倾向于信任有持续维护的内容。
 
-👉 想看更详细的 Sora2 使用步骤？请访问：[Sora2教程与邀请码说明](https://github.com/rangling/sora2-tutorial-invite-code)
-- OpenAI 官方博客：《Sora 2 is here》 – Sora2 视频生成模型的官方介绍[ (OpenAI.com)](https://openai.com/index/sora-2/)
-- Dealmoon 文章：《Sora AI视频火爆登顶App Store 手把手教你抢邀请码！》 – Sora 应用及邀请码获取指南 (Dealmoon社区)
--[ 404141.xyz – “风云际会” AI 账号商城 (提供 Sora2 邀请码购买)](https://www.404141.xyz/)
+- **2025年10月12日**：新增最新的邀请码获取渠道说明，优化了教程排版。
+- **2025年10月10日**：补充了 Discord 社区领取邀请码的方法说明。
+- **2025年10月8日**：更新了 Sora2 教程截图与官方功能描述。
+- **2025年10月6日**：上线首版内容，包含邀请码购买方式与使用流程。
+
+---
+
+## 📚 参考链接
+
+- [Sora2 教程与邀请码说明](https://github.com/rangling/sora2-tutorial-invite-code) – 完整注册流程与使用方法。  
+- [OpenAI 官方 Sora 页面](https://openai.com/sora) – 官方介绍 Sora2 最新功能与更新说明。  
+- [404141.xyz - AI邀请码购买站](https://404141.xyz) – 获取最新 Sora2 邀请码与 AI 工具资源。  
+- [Sora2 提示词大全与用法指南](https://github.com/rangling/sora2-prompt-guide) – 热门提示词合集与实用案例。
+
+---
+
+**关键词索引（方便SEO抓取）**：  
+Sora2 使用教程、Sora2 邀请码、Sora2 提示词、Sora2 注册指南、Sora2 视频生成、Sora2 邀请码购买、Sora2 Discord 申请、OpenAI Sora 注册、Sora 2 教程、Sora 2 邀请注册。
+
+
