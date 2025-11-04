@@ -1,11 +1,12 @@
 # Sora2 使用教程与邀请码获取指南（sora2使用教程 / sora2邀请码购买 / sora2邀请码分享）只需9.9元
->*📅 最近更新：2025年10月27日*
+>*📅 最近更新：2025年11月4日*
 >
 >最近 AI 圈里出现了一个热论的名词——**Sora2**。许多人看到有人在推特、论坛讨论它，但还不清楚 **Sora2 是什么**，只知道这个新东西强大得不行，而且使用必须邀请码。这篇文章就用轻松的调度来简介 Sora2 功能和现状，帮助大家明白 **怎么获得 / 购买 / 使用 Sora2 邀请码**。
 <img width="876" height="625" alt="Sora2 邀请码输入界面示例" src="https://github.com/user-attachments/assets/a97b083a-d388-4ad1-a385-b48f74de1fb5" />
 
 ## 📚 目录（Table of Contents）
 - [Sora2 是什么？](#sora2-是什么)
+  * [sora2套餐对比表](#sora2套餐对比表)
 - [怎么获得 Sora2 邀请码？](#怎么获得-sora2-邀请码)
   * [方法 1：付费购买邀请码](#方法-1付费购买邀请码)
   * [方法 2：社交媒体/论坛免费寻码](#方法-2社交媒体论坛免费寻码)
@@ -20,14 +21,13 @@
 
 Sora2 模型目前处于邀请测试阶段，所以 Sora iOS App 仅对部分用户开放，需要邀请码才能注册使用。由于 Sora2 计算资源耗费高，官方采用了邀请制限量让用户进入。每个邀请码又可活开 4 个新邀请码分享给其他用户，通过这种“裂变”的方式活跃用户增长。
 
-# 套餐对比表
-
-| 计划 | 价格（USD/月） | 视频时长上限（当前公开报道） | 分辨率/额度 | 速度/队列 | 特色功能 | 适用地区（阶段） |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Free** | $0 | 10-15s | 未明确公开配额，属“慷慨限额/计算受限”试用 | 标准/受限 | 基础生成功能 | 美国/加拿大 优先开放，逐步扩展 |
-| **ChatGPT Plus** | $20 | 10-15s | 每天大概50个720p；更高分辨率消耗更快 | 相比 Free 更稳定 | 包含 Sora 使用权（无额外费用）；Sora 2 仍逐步放量 | 同上 |
-| **ChatGPT Pro** | $200 |  10-25s（网页端） | 1080p更高质量/更大额度（较 Plus 10× 使用量） | 更快队列/更高优先级 | Storyboard（Pro 独占）等进阶功能 | 同上 |
-
+### sora2套餐对比表
+|               **计划 / 套餐**               |       **每日免费生成上限（滚动24小时）**       |                 **单个视频可选时长（记作几次）**                |                        **追加购买**                       | **其他权益 / 备注**                                                             |
+| :-------------------------------------: | :------------------------------: | :-----------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------------------------------ |
+|           **Sora（所有用户 / 免费）**           |           **30 次 / 天**           |                  10s＝1 次；15s＝2 次                  | iOS 应用内购：**10 次 = US$4**（有效期 12 个月，可与 Codex 共享同一余额） | 官方表示未来可能下调免费额度以适应增长与算力约束；限额按 **滚动24小时** 计算而非按自然日清零。                       |
+|         **ChatGPT Plus（$20/月）**         |         **与免费相同（未见官方提高）**        |                  10s＝1 次；15s＝2 次                  |                      同上（可购买附加视频）                      | 官方未披露 Plus 在 Sora 上的单独更高配额；Plus 本身价格参考 OpenAI 定价页。                        |
+|         **ChatGPT Pro（$200/月）**         |    **最高 100 次 / 天**（复杂配置可能更低）    | 10s＝1 次；15s＝2 次；**25s＝4 次**（网页端 Storyboard，仅 Pro） |                      同上（可购买附加视频）                      | 可在满足条件时 **无水印下载**（如纯文本生成为主、非公众人物、未用他人 cameo）；Storyboard、25s 时长首先向 Pro 开放、分辨率更高1080p |
+| **ChatGPT Business / Enterprise（面向组织）** | **按消费者版 Sora 的规则使用**（暂无单独企业配额公告） |                       与免费相同                       |                           同上                          | 官方说明：企业用户可在 **消费者条款** 下试用 Sora；Business 访问 Sora 时也会 **退出训练（opt-out）**。    |
 
 ## 怎么获得 Sora2 邀请码？
 
@@ -37,7 +37,7 @@ Sora2 模型目前处于邀请测试阶段，所以 Sora iOS App 仅对部分用
 <img width="876" height="625" alt="Sora2 邀请码获取界面" src="https://github.com/user-attachments/assets/ae0b053d-9790-47eb-b501-526f0ad09890" />
 
 
-想快鸟先飞，直接购买 Sora2 邀请码是最快的路径。现在网上有一些平台在卖 Sora2 邀请码，价格从几块到一百元不等。这里小编找到9.9的最便宜邀请码，风云ai网站 [404141.xyz](https://www.404141.xyz/)就提供 Sora2邀请码购买服务以及sora2升级服务。一般情况下，你支付后商家会快速传达邀请码，通过邮件或站内消息发给你。拿到邀请码就能立即体验 Sora2 了。
+想快鸟先飞，直接购买 Sora2 邀请码是最快的路径。现在网上有一些平台在卖 Sora2 邀请码，价格从几块到一百元不等。这里小编找到9.9的最便宜邀请码，风云ai网站 <a href="https://404141.xyz" target="_blank">404141.xyz</a>就提供 Sora2邀请码购买服务以及sora2升级服务。一般情况下，你支付后商家会快速传达邀请码，通过邮件或站内消息发给你。拿到邀请码就能立即体验 Sora2 了。
 
 ### 方法 2：社交媒体/论坛免费寻码
 
@@ -60,6 +60,7 @@ Sora2 模型目前处于邀请测试阶段，所以 Sora iOS App 仅对部分用
 
 > 持续更新中：本页会定期补充最新的 Sora2 邀请码申请方法、使用教程与功能体验。  
 > Google 与访客都会更倾向于信任有持续维护的内容。
+- **2025年11月4日**：更新目录，更新sora2各个套餐区别。
 - **2025年10月27日**：优化文字段落，更新sora2各个套餐区别。
 - **2025年10月20日**：优化文字段落，增加目录跳转功能。
 - **2025年10月18日**：新增 Sora2 视频生成参数说明（视频时长与画质），优化文字段落层级与 SEO 结构。
@@ -72,12 +73,20 @@ Sora2 模型目前处于邀请测试阶段，所以 Sora iOS App 仅对部分用
 
 ## 📚 其他AI相关文章推荐
 
-- [Sora2 教程与邀请码说明](https://github.com/rangling/sora2-tutorial-invite-code) – 完整注册流程与使用方法。  
-- [OpenAI 官方 Sora 页面](https://openai.com/sora) – 官方介绍 Sora2 最新功能与更新说明。  
-- [404141.xyz - AI邀请码购买站](https://404141.xyz) – 获取最新 Sora2 邀请码与 AI 工具资源。  
-- [Sora2 提示词大全与用法指南](https://github.com/rangling/sora2-prompt-guide) – 热门提示词合集与实用案例。
-- [SuperGrok 代充：Grok 会员充值与国内开通指南](https://github.com/rangling/supergrok-recharge-guide) — 完整的 SuperGrok / Grok 会员充值教程，包含国内开通流程、充值渠道推荐、避坑提示与常见故障排查（适合想快速开通 Grok / Grok Plus 的用户）。
-- [Sora2生成视频有关问题](https://github.com/rangling/sora2-guide-error-similarity) — 避免 “此内容可能违反关于第三方内容相似性的相关规定” 提示的解决方法。
+<a href="https://github.com/rangling/sora2-tutorial-invite-code" target="_blank">Sora2 教程与邀请码说明</a> – 完整注册流程与使用方法。
+
+<a href="https://openai.com/sora" target="_blank">OpenAI 官方 Sora 页面</a> – 官方介绍 Sora2 最新功能与更新说明。
+
+<a href="https://404141.xyz" target="_blank">404141.xyz - AI邀请码购买站</a> – 获取最新 Sora2 邀请码与 AI 工具资源。
+
+<a href="https://github.com/rangling/sora2-prompt-guide" target="_blank">Sora2 提示词大全与用法指南</a> – 热门提示词合集与实用案例。
+
+<a href="https://github.com/rangling/supergrok-recharge-guide" target="_blank">SuperGrok 代充：Grok 会员充值与国内开通指南</a> — 完整的 SuperGrok / Grok 会员充值教程，包含国内开通流程、充值渠道推荐、避坑提示与常见故障排查（适合想快速开通 Grok / Grok Plus 的用户）。
+
+<a href="https://github.com/rangling/sora2-guide-error-similarity" target="_blank">Sora2生成视频有关问题</a> — 避免 “此内容可能违反关于第三方内容相似性的相关规定” 提示的解决方法。
+
+<a href="https://github.com/rangling/sora2-guide-error-similarity" target="_blank">ChatGPT Plus/Pro代充与合租教程</a> —ChatGPT Plus/Pro充值、合租、月卡开通指南（支持支付宝/微信）。
+
 
 ---
 
